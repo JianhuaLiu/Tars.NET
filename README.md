@@ -18,3 +18,8 @@ tars底层依赖的C# 扩展代码
 
 tars的rpc 服务实现
 [详细说明](https://github.com/TarsNET/rpc/tree/master/README.md)
+
+
+## 开发tars框架的注意事项
+
+1. 开发中的tars 框架放在myget 上，避免nuget大量无意义测试版， 地址： https://www.myget.org/f/tarsnet 
